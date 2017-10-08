@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507498392 source:e:\programming\labs\2\minmax\minmax\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
